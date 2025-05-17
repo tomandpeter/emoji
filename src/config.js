@@ -5,10 +5,10 @@ module.exports = [
     // 生成json时的前缀
     prefix: 'heo-',
     // 图片基路径
-    baseUrl: 'https://emotion-new.acs.pw/heo/image',
+    baseUrl: 'https://emoji.kelseychen.net/heo/image',
     twikoo: {
       // twikoo 生成的tab栏名称
-      name: `<img src="${'https://emotion-new.acs.pw/heo/image'}/害羞.png" style="width: 30px;top: 4px;position: relative;" title="Heo">`
+      name: `<img src="${'https://emoji.kelseychen.net/heo/image'}/害羞.png" style="width: 30px;top: 4px;position: relative;" title="Heo">`
     },
     artalk: {
       // artalk 生成的tab栏名称
@@ -25,19 +25,19 @@ module.exports = [
   {
     path: 'aru',
     prefix: 'aru-',
-    baseUrl: 'https://emotion-new.acs.pw/aru/image',
+    baseUrl: 'https://emoji.kelseychen.net/aru/image',
     twikoo: {
-      name: `阿鲁`
+      name: `kelsey`
     },
     artalk: {
-      name: `阿鲁`
+      name: `kelsey`
     },
     waline: {
-      name: '阿鲁',
+      name: 'kelsey',
       icon: '001.gif'
     },
     discuss: {
-      name: `阿鲁`
+      name: `kelsey`
     }
   },
   {
