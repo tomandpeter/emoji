@@ -5,7 +5,7 @@ module.exports = [
     // 生成json时的前缀
     prefix: 'heo-',
     // 图片基路径
-    baseUrl: 'https://emoji.kelseychen.net/heo/image',
+    baseUrl: 'https://emoji.kelseychen.net/dist/heo/image',
     twikoo: {
       // twikoo 生成的tab栏名称
       name: `<img src="${'https://emoji.kelseychen.net/heo/image'}/害羞.png" style="width: 30px;top: 4px;position: relative;" title="Heo">`
@@ -25,7 +25,7 @@ module.exports = [
   {
     path: 'aru',
     prefix: 'aru-',
-    baseUrl: 'https://emoji.kelseychen.net/aru/image',
+    baseUrl: 'https://emoji.kelseychen.net/dist/aru/image',
     twikoo: {
       name: `kelsey`
     },
@@ -43,7 +43,7 @@ module.exports = [
   {
     path: 'kcoin',
     prefix: 'kcoin-',
-    baseUrl: 'https://emoji.kelseychen.net/kcoin/image',
+    baseUrl: 'https://emoji.kelseychen.net/dist/kcoin/image',
     twikoo: {
       name: `酷币`
     },
@@ -61,7 +61,7 @@ module.exports = [
   {
     path: 'bili_tv',
     prefix: 'btv-',
-    baseUrl: 'https://emoji.kelseychen.net/bili_tv/image',
+    baseUrl: 'https://emoji.kelseychen.net/dist/bili_tv/image',
     twikoo: {
       name: `哔哩TV`
     },
@@ -79,7 +79,7 @@ module.exports = [
   {
     path: 'huaji',
     prefix: 'huaji-',
-    baseUrl: 'https://emoji.kelseychen.net/huaji/image',
+    baseUrl: 'https://emoji.kelseychen.net/dist/huaji/image',
     twikoo: {
       name: `滑稽`
     },
@@ -97,7 +97,7 @@ module.exports = [
   {
     path: 'parrot',
     prefix: 'parrot-',
-    baseUrl: 'https://emoji.kelseychen.net/parrot/image',
+    baseUrl: 'https://emoji.kelseychen.net/dist/parrot/image',
     twikoo: {
       name: `小鹦鹉`
     },
@@ -115,7 +115,7 @@ module.exports = [
   {
     path: 'other',
     prefix: 'other-',
-    baseUrl: 'https://emoji.kelseychen.net/other/image',
+    baseUrl: 'https://emoji.kelseychen.net/dist/other/image',
     twikoo: {
       name: `其他`
     },
@@ -133,7 +133,7 @@ module.exports = [
   {
     path: 'blob',
     prefix: 'blob-',
-    baseUrl: 'https://emoji.kelseychen.net/blob/image',
+    baseUrl: 'https://emoji.kelseychen.net/dist/blob/image',
     twikoo: {
       name: `Blob`
     },
