@@ -25,7 +25,7 @@ module.exports = [
   {
     path: 'aru',
     prefix: 'aru-',
-    baseUrl: 'https://emoji.kelseychen.net/aru/image',
+    baseUrl: 'https://emoji.kelseychen.net/image/aru',
     twikoo: {
       name: `kelsey`
     },
