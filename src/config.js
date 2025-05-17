@@ -8,7 +8,7 @@ module.exports = [
     baseUrl: 'https://emoji.kelseychen.net/dist/heo/image',
     twikoo: {
       // twikoo 生成的tab栏名称
-      name: `<img src="${'https://emoji.kelseychen.net/heo/image'}/害羞.png" style="width: 30px;top: 4px;position: relative;" title="Heo">`
+      name: `<img src="${'https://emoji.kelseychen.net/dist/heo/image'}/害羞.png" style="width: 30px;top: 4px;position: relative;" title="Heo">`
     },
     artalk: {
       // artalk 生成的tab栏名称
