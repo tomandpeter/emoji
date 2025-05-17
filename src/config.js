@@ -43,7 +43,7 @@ module.exports = [
   {
     path: 'kcoin',
     prefix: 'kcoin-',
-    baseUrl: 'https://emotion-new.acs.pw/kcoin/image',
+    baseUrl: 'https://emoji.kelseychen.net/kcoin/image',
     twikoo: {
       name: `酷币`
     },
@@ -61,7 +61,7 @@ module.exports = [
   {
     path: 'bili_tv',
     prefix: 'btv-',
-    baseUrl: 'https://emotion-new.acs.pw/bili_tv/image',
+    baseUrl: 'https://emoji.kelseychen.net/bili_tv/image',
     twikoo: {
       name: `哔哩TV`
     },
@@ -79,7 +79,7 @@ module.exports = [
   {
     path: 'huaji',
     prefix: 'huaji-',
-    baseUrl: 'https://emotion-new.acs.pw/huaji/image',
+    baseUrl: 'https://emoji.kelseychen.net/huaji/image',
     twikoo: {
       name: `滑稽`
     },
@@ -97,7 +97,7 @@ module.exports = [
   {
     path: 'parrot',
     prefix: 'parrot-',
-    baseUrl: 'https://emotion-new.acs.pw/parrot/image',
+    baseUrl: 'https://emoji.kelseychen.net/parrot/image',
     twikoo: {
       name: `小鹦鹉`
     },
@@ -115,7 +115,7 @@ module.exports = [
   {
     path: 'other',
     prefix: 'other-',
-    baseUrl: 'https://emotion-new.acs.pw/other/image',
+    baseUrl: 'https://emoji.kelseychen.net/other/image',
     twikoo: {
       name: `其他`
     },
@@ -133,7 +133,7 @@ module.exports = [
   {
     path: 'blob',
     prefix: 'blob-',
-    baseUrl: 'https://emotion-new.acs.pw/blob/image',
+    baseUrl: 'https://emoji.kelseychen.net/blob/image',
     twikoo: {
       name: `Blob`
     },
